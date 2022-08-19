@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">Hi, I'm Siddharth seeking a Data Scientist role to enhance and explore my technical knowledge gained in the last 2 years.<br> I'm adept at collecting, analyzing, interpreting and manipulating large datasets, making predictions using statistics and machine learning and how to use collaboration tools like git and SQL databses. I've been developing end-to-end machine learning prototypes and I'm very much interested and excited about where data science will take our world in the coming future and enhance our day to day tasks to be more efficient. I'm certain that this is where i wanna be headed and use my skills to make a difference and contribute.</h3>
+<h3 align="center">Hi, I'm Siddharth seeking a Data Scientist role to enhance and explore my technical knowledge gained in the last 2 years.<br> I'm adept at collecting, analyzing, interpreting and manipulating large datasets, making predictions using statistics and machine learning and how to use collaboration tools like git and SQL databses. <br> I've been developing end-to-end machine learning prototypes and I'm very much interested and excited about where data science will take our world in the coming future and enhance our day to day tasks to be more efficient. I'm certain that this is where i wanna be headed and use my skills to make a difference and contribute.</h3>
 
 - 📫 How to reach me **siddharthbhardwaj254@gmail.com**
 
